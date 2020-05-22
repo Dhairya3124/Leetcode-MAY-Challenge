@@ -8,6 +8,6 @@ All solutions provided here are accepted with constraints taken care.
 <https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/>
 This repository is made for solutions of Leetcode May Challenge.
 Languages Preferred:-
-$ C++
-$ Java
-$ Python
+* C++
+* Java
+* Python
